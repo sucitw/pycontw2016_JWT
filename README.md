@@ -1,6 +1,6 @@
 # pycontw2016_JWT
 
-Demo example for the talk about JWT in Pycontw 2016. 
+Demo examples for the talk about JWT in Pycontw 2016. 
 Title:"Authentication with JSON Web Tokens"
 
 
@@ -20,7 +20,7 @@ Ref:
 4.  JWT (JSON Web Tokens) for Flask applications 
     * Flask-JWT: https://pythonhosted.org/Flask-JWT/
 
-Example service ins this talk:
+Example services in this talk:
 * Kalay platform (http://www.throughtek.com.tw/kalay_overview.html)
 * diuit messaging api (http://api.diuit.com/en/index.html)
 
